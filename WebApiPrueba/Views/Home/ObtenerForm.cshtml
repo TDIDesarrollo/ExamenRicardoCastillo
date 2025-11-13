@@ -1,0 +1,22 @@
+﻿@model Post
+@{
+    ViewData["Title"] = "ObtenerForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        Crear Cita
+    </div>
+    <div class="card-body">
+        <form asp-action="Obtener" asp-controller="Home" method="post">
+            <div class="mb-3">
+                <label class="form-label">Id del Post</label>
+                <input asp-for="id" type="number" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-primary">Buscar</button>
+            <a asp-action="Index" asp-controller="Home" class="btn btn-danger">Volver a la lista</a>
+        </form>
+    </div>
+</div>
+

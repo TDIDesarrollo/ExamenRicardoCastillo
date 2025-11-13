@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\views\\home\\obtener.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\views\\home\\obtener.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\views\\home\\obtenerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\views\\home\\obtenerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\servicios\\servicioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\servicios\\servicioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\servicios\\iservicioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\servicios\\iservicioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|c:\\users\\ricar\\source\\repos\\webapiprueba\\webapiprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D88C48-03AC-4055-87FF-5D35681001EB}|WebApiPrueba\\WebApiPrueba.csproj|solutionrelative:webapiprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObtenerForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Views\\Home\\ObtenerForm.cshtml",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Views\\Home\\ObtenerForm.cshtml",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Views\\Home\\ObtenerForm.cshtml",
+              "RelativeToolTip": "WebApiPrueba\\Views\\Home\\ObtenerForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T20:22:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApiPrueba\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T20:10:00.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obtener.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Views\\Home\\Obtener.cshtml",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Views\\Home\\Obtener.cshtml",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Views\\Home\\Obtener.cshtml",
+              "RelativeToolTip": "WebApiPrueba\\Views\\Home\\Obtener.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T20:09:44.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Models\\Post.cs",
+              "RelativeToolTip": "WebApiPrueba\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:13:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApiPrueba\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:00:04.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Program.cs",
+              "RelativeToolTip": "WebApiPrueba\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:58:29.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioApi.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Servicios\\ServicioApi.cs",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Servicios\\ServicioApi.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Servicios\\ServicioApi.cs",
+              "RelativeToolTip": "WebApiPrueba\\Servicios\\ServicioApi.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:27:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServicioApi.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Servicios\\IServicioApi.cs",
+              "RelativeDocumentMoniker": "WebApiPrueba\\Servicios\\IServicioApi.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\Servicios\\IServicioApi.cs",
+              "RelativeToolTip": "WebApiPrueba\\Servicios\\IServicioApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:23:40.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiPrueba\\appsettings.json",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebApiPrueba\\WebApiPrueba\\appsettings.json",
+              "RelativeToolTip": "WebApiPrueba\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T19:20:14.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

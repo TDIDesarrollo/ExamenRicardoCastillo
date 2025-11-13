@@ -1,0 +1,30 @@
+﻿@model Post
+@{
+    ViewData["Title"] = "Obtener";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        Post Buscado
+    </div>
+
+    <div class="card-body">
+        <div class="d-block">
+            <strong>Id: @Model.id</strong>
+        </div>
+        <div class="d-block">
+            <strong>Usuario: @Model.UserId.ToString()</strong>
+        </div>
+        <div class="d-block">
+            <strong>Titulo: @Model.title.ToString()</strong>
+        </div>
+        <div class="d-block">
+            <strong>Contenido: @Model.body.ToString()</strong>
+        </div>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-danger">Volver a la lista</a>
+
+
+    </div>
+</div>
+

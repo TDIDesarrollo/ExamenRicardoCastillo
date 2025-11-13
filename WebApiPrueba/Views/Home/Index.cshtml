@@ -1,0 +1,40 @@
+﻿@model List<Post>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+</div>
+
+<div class="card">
+    <div class="card-header">
+        Lista de Posts
+    </div>
+    <div class="card-body">
+        <a asp-action="ObtenerForm" asp-controller="Home" class="btn btn-success btn-sm">Buscar Post</a>
+        <hr />
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Usuario</th>
+					<th>Titulo</th>
+					<th>Contenido</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var post in Model)
+                {
+                    <tr>
+                        <td>@post.id</td>
+						<td>@post.UserId</td>
+						<td>@post.title</td>
+                        <td>@post.body</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
